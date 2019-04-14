@@ -1,16 +1,14 @@
 ### pppcpp
 Programming Principles and Practice using C++
 
+#### Nots for myself
 
-Compilieren mit  
-g++ -Wall -Wextra -Werror -o output.out (hier die .cpp-Dateien auflisten)  
-Das "-Wall -Wextra -Werror" listet Fehler und Warnungen auf.
+Compile with `g++ -Wall -Wextra -Werror -o output-filename.out` (and a list of the .cpp files)  
 
-Die header-Datei aus dem Buch ist veraltet und erzeugt Warnungen und Fehlermeldungen. Daher nutze ich sie nicht.
+I don't use the header file mentioned in the book and provided on the website because it's bad practice and makes the compiler cry.
 
-Dateinamenformat:  
-Kapitelnummer, Art der Übung, Name  
-Art de Übung:
+File naming scheme: chapter number, type, name  
+possible types are:
 * d: drill
 * t: try this
 * e: exercises

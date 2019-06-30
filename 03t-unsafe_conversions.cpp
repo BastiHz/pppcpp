@@ -1,3 +1,6 @@
+// try this, chapter 3, p. 81
+
+
 #include <iostream>
 
 int main() {

@@ -1,3 +1,6 @@
+// drill, chapter 2, p. 52
+
+
 #include <iostream>
 
 // Ich nutze die header-Datei aus dem Buch nicht, 

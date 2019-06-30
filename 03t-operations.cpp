@@ -1,8 +1,11 @@
+// try this, chapter 3, p. 68
+
+
 #include <iostream>
 #include <cmath>
 
 int main() {
-    std::cout << "Please enter a integer value: ";
+    std::cout << "Please enter an integer value: ";
     int n;
     std::cin >> n;
     std::cout << "n = " << n

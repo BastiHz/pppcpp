@@ -1,3 +1,6 @@
+// exercise 4, chapter 3, p. 86
+
+
 #include <iostream>
 
 int main() {

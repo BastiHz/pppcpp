@@ -1,3 +1,6 @@
+// drill, chapter 3, p. 83
+
+
 #include <iostream>
 
 int main() {

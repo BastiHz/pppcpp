@@ -1,4 +1,4 @@
-// exercise 7, chapter 3, p. 86
+// chapter 3, p. 86, exercise 7
 
 
 #include <iostream>

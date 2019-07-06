@@ -1,4 +1,4 @@
-// try this, chapter 4, p. 105
+// chapter 4, p. 105, try this
 
 
 #include <iostream>

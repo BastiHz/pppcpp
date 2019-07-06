@@ -1,4 +1,4 @@
-// try this, chapter 3, p. 73
+// chapter 3, p. 73, try this
 
 
 // Terminate this program with Ctrl + D.

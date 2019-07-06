@@ -1,4 +1,4 @@
-// drill, chapter 3, p. 83
+// chapter 3, p. 83, drill
 
 
 #include <iostream>

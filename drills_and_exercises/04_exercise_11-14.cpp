@@ -1,4 +1,5 @@
 // chapter 4, p. 129-130, exercise 11-14
+// find primes using a sieve of eratosthenes
 
 #include <iostream>
 #include <vector>
